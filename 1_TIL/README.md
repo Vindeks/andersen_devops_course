@@ -7,7 +7,7 @@
 
 ## 2021.08.31
 - How DevOps is helping a business (read The Phoenix Project book).
-- Some about backend development.
+- Web development.
 - AWS Foundations: Getting Started with the AWS Cloud Essentials.
 
 ## 2021.09.01
@@ -15,4 +15,7 @@
 - Tooling.
 
 ## 2021.09.02
-- Some about web development.
+- Web development.
+
+## 2021.09.03
+- Algorithms.
