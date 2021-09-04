@@ -19,3 +19,7 @@
 
 ## 2021.09.03
 - Algorithms.
+
+## 2021.09.04
+- Algorithms.
+- Web development.
