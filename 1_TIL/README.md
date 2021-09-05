@@ -23,3 +23,6 @@
 ## 2021.09.04
 - Algorithms.
 - Web development.
+
+## 2021.09.05
+- Ansible.
