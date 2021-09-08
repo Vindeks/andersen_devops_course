@@ -29,3 +29,6 @@
 
 ## 2021.09.06
 - Ansible.
+
+## 2021.09.07
+- Web development.
