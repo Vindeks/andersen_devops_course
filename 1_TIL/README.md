@@ -35,3 +35,6 @@
 
 ## 2021.09.08
 - Algorithms.
+
+## 2021.09.09
+- Algorithms.
